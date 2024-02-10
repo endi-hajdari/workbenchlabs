@@ -1,0 +1,179 @@
+.mediaViewInfo {
+	--web-view-name: Web 1920 – 2;
+	--web-view-id: Web_1920__2;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Web_1920__2;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Web_1920__2 {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	background-color: rgba(250,250,250,1);
+	overflow: hidden;
+	--web-view-name: Web 1920 – 2;
+	--web-view-id: Web_1920__2;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#My_Movie_-_1 {
+	opacity: 0.838;
+	fill: transparent;
+}
+.My_Movie_-_1 {
+	overflow: hidden;
+	position: absolute;
+	width: 739px;
+	height: 416px;
+	left: 835px;
+	top: 621px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Illustration {
+	position: absolute;
+	width: 1547.271px;
+	height: 732.456px;
+	left: -325.482px;
+	top: 386.271px;
+	overflow: visible;
+}
+#Group_42 {
+	opacity: 0.1;
+	position: absolute;
+	width: 1547.271px;
+	height: 732.456px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Group_41 {
+	position: absolute;
+	width: 1547.271px;
+	height: 732.456px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Construction_meet_ML {
+	position: absolute;
+	width: 638.818px;
+	height: 44.063px;
+	left: 641px;
+	top: 512px;
+	overflow: visible;
+}
+#Group_4 {
+	opacity: 0.818;
+	position: absolute;
+	width: 638.818px;
+	height: 44.063px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Group_3 {
+	position: absolute;
+	width: 638.818px;
+	height: 44.063px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#website_URL {
+	position: absolute;
+	width: 172.857px;
+	height: 25.92px;
+	left: 835.757px;
+	top: 1034px;
+	overflow: visible;
+}
+#Group_48 {
+	position: absolute;
+	width: 172.857px;
+	height: 25.92px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Website_under_construction {
+	position: absolute;
+	width: 970.381px;
+	height: 291.775px;
+	left: 474.81px;
+	top: 216.225px;
+	overflow: visible;
+}
+#Group_1 {
+	position: absolute;
+	width: 970.381px;
+	height: 291.775px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Button {
+	mix-blend-mode: normal;
+	position: absolute;
+	width: 392px;
+	height: 43px;
+	left: 758px;
+	top: 635px;
+	overflow: visible;
+}
+#Rectangle_38 {
+	fill: rgba(252,252,252,1);
+	stroke: rgba(252,252,252,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_38 {
+	position: absolute;
+	overflow: visible;
+	width: 392px;
+	height: 43px;
+	left: 0px;
+	top: 0px;
+}
+#Learn_more_about_us__ {
+	left: 13px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 369px;
+	white-space: nowrap;
+	line-height: 39.60000228881836px;
+	margin-top: -3.3000011444091797px;
+	text-align: left;
+	font-family: SequelSans-RomanBody;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 33px;
+	color: rgba(44,104,212,1);
+}
+#Our_Affliations_Text {
+	position: absolute;
+	width: 197.061px;
+	height: 36.288px;
+	left: 628.626px;
+	top: 835px;
+	overflow: visible;
+}
+#Group_7 {
+	position: absolute;
+	width: 197.061px;
+	height: 36.288px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
